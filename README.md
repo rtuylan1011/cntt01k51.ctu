@@ -27,7 +27,7 @@
 * **2.6. Liên hệ**
     * Email chi đoàn Công nghệ thông tin 01 K51.
     * Facebook chi đoàn Công nghệ thông tin 01 K51.
-    * 
+
 ---
 
 ## 3. Công nghệ sử dụng
@@ -51,6 +51,7 @@
 
 ---
 ## 5. Cấu trúc thư mục
+```text
 ├── css/                 # Thư mục chứa các file định dạng styles
 ├── image/               # Thư mục lưu trữ hình ảnh, logo, avatar
 ├── index.html           # Trang chủ của website
